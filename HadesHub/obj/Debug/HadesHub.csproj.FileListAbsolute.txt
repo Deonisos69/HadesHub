@@ -1,0 +1,15 @@
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\bin\Debug\HadesHub.exe.config
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\bin\Debug\HadesHub.exe
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\bin\Debug\HadesHub.pdb
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.csproj.AssemblyReference.cache
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\MainWindow.g.cs
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\App.g.cs
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub_MarkupCompile.cache
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub_MarkupCompile.lref
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\MainWindow.baml
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.g.resources
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.Properties.Resources.resources
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.csproj.GenerateResource.cache
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.csproj.CoreCompileInputs.cache
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.exe
+C:\Users\deoni\Documents\Github\HadesHub\HadesHub\obj\Debug\HadesHub.pdb

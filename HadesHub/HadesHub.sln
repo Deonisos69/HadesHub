@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HadesHub", "HadesHub.csproj", "{3FA27E8C-D590-4FE3-BFA8-6B92B183132F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA27E8C-D590-4FE3-BFA8-6B92B183132F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA27E8C-D590-4FE3-BFA8-6B92B183132F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA27E8C-D590-4FE3-BFA8-6B92B183132F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA27E8C-D590-4FE3-BFA8-6B92B183132F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504A8023-7CD4-48EB-A994-3AB903AB34C4}
+	EndGlobalSection
+EndGlobal
